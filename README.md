@@ -1,0 +1,3 @@
+```
+python generator.py
+```
